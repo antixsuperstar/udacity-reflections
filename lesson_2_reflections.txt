@@ -2,6 +2,12 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Git creates its hidden directory. It's needed for using git functions.
 
+
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It's like a list of files git should track, which could be not ALL of the files contained. It offers more control by monitoring only the relevant files involved in a commit.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By adding only the files involved in such change. It's nonsense adding others.
