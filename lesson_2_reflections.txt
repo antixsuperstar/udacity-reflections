@@ -16,3 +16,8 @@ By adding only the files involved in such change. It's nonsense adding others.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 By separating production and experimental versions (or other versions) you keep the "Undo" button working. If later on you want to integrate a new funcitonality into the production version, merging branches keeps giving the user a consistent improved experience.
+
+
+How do the diagrams help you visualize the branch structure?
+
+By seeing a draw is easier to understand how changes evolve during time and helps --i think-- with future merging procedures, making sure of what we ask is what we want.
