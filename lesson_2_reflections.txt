@@ -21,3 +21,8 @@ By separating production and experimental versions (or other versions) you keep 
 How do the diagrams help you visualize the branch structure?
 
 By seeing a draw is easier to understand how changes evolve during time and helps --i think-- with future merging procedures, making sure of what we ask is what we want.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging includes changes made in the tips of two branches, creating a new unified tip. The diagram shows exactly that: the integration of both set of changes from the two branches. 
