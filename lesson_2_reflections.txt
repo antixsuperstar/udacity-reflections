@@ -26,3 +26,9 @@ By seeing a draw is easier to understand how changes evolve during time and help
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging includes changes made in the tips of two branches, creating a new unified tip. The diagram shows exactly that: the integration of both set of changes from the two branches. 
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic takes out the hassle off combining several versions of the same file, but can't resolve conflicts when they arise.
+Manual merging gives full control of what changes butcould become tedious when ther's a lot of code involved.
