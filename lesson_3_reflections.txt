@@ -23,3 +23,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
   I imagine using a shared folder where everyone should keep a folder structure to
   order software revisions... It'd definitively be more difficult to collaborate; worse
   trying to do it concurrently.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+  I'd make a separate branch if I want to introduce a [major] change in core functionality.
+  Otherwise, if I'm just improving or adding features, I think i'd be ok to stay in
+  master branch.
